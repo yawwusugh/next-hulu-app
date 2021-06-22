@@ -1,5 +1,6 @@
 import Head from "next/head";
 import HeadBanner from "../components/HeadBanner";
+import NavBar from "../components/NavBar";
 
 export default function Home() {
   return (
@@ -15,6 +16,7 @@ export default function Home() {
 
       <main>
         <HeadBanner />
+        <NavBar />
       </main>
     </div>
   );
