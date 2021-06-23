@@ -1,3 +1,18 @@
+# NEXTJS HULU CLONE
+
+A clone of the Hulu web app with Next.js and TailWindCSS, deployed on Vercel.
+Features include:
+- Server-side rendering with Next.js
+- Fully Responsive design and layout with TailWindCSS
+- Image optimizations with Next.js Image
+- Dynamic api calls to the TMDB database
+- Hosting on Vercel
+- and many more...
+
+Check out the app for yourself on [Yaw's Hulu Clone](https://next-hulu-clone-six.vercel.app/)
+
+Credits: Sonny Sangha's Youtube Channel
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
