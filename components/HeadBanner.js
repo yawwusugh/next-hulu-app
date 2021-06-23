@@ -24,6 +24,7 @@ function HeadBanner() {
         <Image
           className="object-contain"
           src="https://links.papareact.com/ua6"
+          alt="hulu"
           width={200}
           height={100}
         />

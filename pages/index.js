@@ -8,7 +8,7 @@ export default function Home({ results }) {
   return (
     <div>
       <Head>
-        <title>Yaw's Hulu Clone</title>
+        <title>Yaw Hulu Clone</title>
         <meta
           name="description"
           content="Hulu Clone with Next.js and TailwindCSS"
